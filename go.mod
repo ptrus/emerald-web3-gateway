@@ -13,10 +13,10 @@ require (
 	github.com/rs/cors v1.8.2
 	github.com/spf13/cobra v1.3.0
 	github.com/stretchr/testify v1.7.0
-	github.com/uptrace/bun v1.1.1
+	github.com/uptrace/bun v1.1.6
 	github.com/uptrace/bun/dialect/pgdialect v1.1.1
-	github.com/uptrace/bun/driver/pgdriver v1.1.1
-	golang.org/x/crypto v0.0.0-20220214200702-86341886e292
+	github.com/uptrace/bun/driver/pgdriver v1.1.6
+	golang.org/x/crypto v0.0.0-20220622213112-05595931fe9d
 	google.golang.org/grpc v1.44.0
 )
 
@@ -87,7 +87,7 @@ require (
 	github.com/whyrusleeping/go-logging v0.0.1 // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	golang.org/x/net v0.0.0-20211112202133-69e39bad7dc2 // indirect
-	golang.org/x/sys v0.0.0-20220227234510-4e6760a101f9 // indirect
+	golang.org/x/sys v0.0.0-20220708085239-5a0f0661e09d // indirect
 	golang.org/x/text v0.3.7 // indirect
 	google.golang.org/genproto v0.0.0-20211208223120-3a66f561d7aa // indirect
 	google.golang.org/grpc/security/advancedtls v0.0.0-20200902210233-8630cac324bf // indirect
